@@ -9,4 +9,4 @@ function Rain() {
     },5000)
     document.body.appendChild(heart);
 }
-setInterval(Rain, 100);
+setInterval(Rain, 110);
