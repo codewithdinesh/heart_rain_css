@@ -1,0 +1,12 @@
+.heart{
+    position: fixed;
+    top: 0px;
+    transform: translateY(0vh);
+    animation: fall 3s linear forwards;
+    transition: all 2s linear;
+}
+@keyframes fall {
+    to{
+        transform: translateY(110vh);
+    }
+}
