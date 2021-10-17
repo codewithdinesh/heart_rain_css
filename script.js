@@ -6,7 +6,7 @@ function Rain() {
     heart.classList.add("heart");
     setTimeout(()=>{
         heart.remove();
-    },5000)
+    },5300)
     document.body.appendChild(heart);
 }
-setInterval(Rain, 110);
+setInterval(Rain, 125);

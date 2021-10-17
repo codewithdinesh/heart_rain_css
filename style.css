@@ -7,6 +7,6 @@
 }
 @keyframes fall {
     to{
-        transform: translateY(110vh);
+        transform: translateY(111vh);
     }
 }
